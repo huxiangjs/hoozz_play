@@ -1,0 +1,6 @@
+[submodule "hoozz_play_mlx90640"]
+	path = hoozz_play_mlx90640
+	url = https://github.com/huxiangjs/hoozz_play_mlx90640.git
+[submodule "hoozz_play_android"]
+	path = hoozz_play_android
+	url = https://github.com/huxiangjs/hoozz_play_android.git
