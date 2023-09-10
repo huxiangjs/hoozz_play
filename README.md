@@ -39,6 +39,5 @@ Now, you can use the respective tools to compile them.
 
 ## Demo video
 
-(tell you later)
+[Bilibili](https://www.bilibili.com/video/BV1qh4y1v7mr/)
 
-:)
