@@ -1,43 +1,25 @@
-# Hoozz Play
+# :fire: Hoozz Play
+Hoozz Play is a personal open source project where all the fun things will be shared.
 
-## What is Hoozz Play?
-
-Hoozz Play is an open source project based on the MIT license, and all supported hardware can interact and be used through it.
-
-## Which hardware is supported?
-
-1. MLX90640: Thermal imaging capabilities with 32x24 resolution.
+## :zap: Project list
+1. **MLX90640:** Thermal imaging capabilities with 32x24 resolution.
 2. (tell you later)
 
-## Quick try
+## :rocket: Quick try
+### :sparkles: MLX90640
+* Steps: [Quick Try](Documents/mlx90640_quick_try.md)
+* Demo video: [Bilibili](https://www.bilibili.com/video/BV1qh4y1v7mr/)
 
-### MLX90640
-
-The final files required for all projects have been provided, so compiling the source code is not necessary. You only need to follow the following steps to have your own thermal imager:
-
-1. Download the [MLX90640_PCB.PcbDoc](https://github.com/huxiangjs/hoozz_play_mlx90640/blob/master/PCB/MLX90640_PCB.PcbDoc) file and send it to the factory for processing, you will get a circuit board.
-2. Download the [MLX90640_Sheet.SchDoc](https://github.com/huxiangjs/hoozz_play_mlx90640/blob/master/PCB/MLX90640_Sheet.SchDoc) file and solder your circuit board according to this schematic.
-3. Download the [GD32F350G8U6TR_MLX90640_V1.0.hex](https://github.com/huxiangjs/hoozz_play_mlx90640/releases/download/v1.0/GD32F350G8U6TR_MLX90640_V1.0.hex) file and use the official burning tool to burn the firmware into the MCU.
-4. You need an Android phone, which needs a typc-c interface.
-5. Download the [hoozz_play_release_v1.0.apk](https://github.com/huxiangjs/hoozz_play_android/releases/download/v1.0/hoozz_play_release_v1.0.apk) file and install the apk to your phone.
-
-Okay, you're ready to start playing
-
-## How to compile source code?
-
-First you need to get the source code, you need to do this:
+## :art: Get all source code
 ```shell
 git clone https://github.com/huxiangjs/hoozz_play.git
 cd hoozz_play/
-git submodule init
-git submodule update
+git submodule update --init --recursive
 ```
 
-After pulling the source code through the above steps, the Android source code is located in the hoozz_play_android/ directory of the current directory, and the MCU source code and hardware information are located in the hoozz_play_mlx90640/ subdirectory of the current directory.
+After the above operation is completed, all projects will be located in the current directory, and you can compile them according to the prompts of the README of each project. Of course you can also pull these repositories individually, it depends on how you want to play.
 
-Now, you can use the respective tools to compile them.
+Good luck and have fun :)
 
-## Demo video
-
-[Bilibili](https://www.bilibili.com/video/BV1qh4y1v7mr/)
-
+## :memo: License
+* MIT License
