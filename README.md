@@ -3,12 +3,16 @@ Hoozz Play is a personal open source project where all the fun things will be sh
 
 ## :zap: Project list
 1. **MLX90640:** Thermal imaging capabilities with 32x24 resolution.
-2. (tell you later)
+2. **REMOTE SW:** A gadget that remotely controls the startup of your computer.
+3. (tell you later)
 
 ## :rocket: Quick try
 ### :sparkles: MLX90640
 * Steps: [Quick Try](Documents/mlx90640_quick_try.md)
 * Demo video: [Bilibili](https://www.bilibili.com/video/BV1qh4y1v7mr/)
+### :sparkles: REMOTE SW
+* Steps: [Quick Try](Documents/remote_sw_quick_try.md)
+* Demo video: (tell you later)
 
 ## :art: Get all source code
 ```shell

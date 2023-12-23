@@ -4,3 +4,6 @@
 [submodule "hoozz_play_android"]
 	path = hoozz_play_android
 	url = https://github.com/huxiangjs/hoozz_play_android.git
+[submodule "hoozz_play_esp32c3_remote_switch"]
+	path = hoozz_play_esp32c3_remote_switch
+	url = https://github.com/huxiangjs/hoozz_play_esp32c3_remote_switch.git
