@@ -12,7 +12,7 @@ Hoozz Play is a personal open source project where all the fun things will be sh
 * Demo video: [Bilibili](https://www.bilibili.com/video/BV1qh4y1v7mr/)
 ### :sparkles: REMOTE SW
 * Steps: [Quick Try](Documents/remote_sw_quick_try.md)
-* Demo video: (tell you later)
+* Demo video: [Bilibili](https://www.bilibili.com/video/BV1TC4y1u73H/)
 
 ## :art: Get all source code
 ```shell
