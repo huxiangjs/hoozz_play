@@ -6,7 +6,7 @@ The final files required for all projects have been provided, so compiling the s
 2. Download the [MLX90640_Sheet.SchDoc](https://github.com/huxiangjs/hoozz_play_mlx90640/blob/master/PCB/MLX90640_Sheet.SchDoc) file and solder your circuit board according to this schematic. ([Component purchase reference link](../Reference/mlx90640.md))
 3. Download the [GD32F350G8U6TR_MLX90640_V1.0.hex](https://github.com/huxiangjs/hoozz_play_mlx90640/releases/download/v1.0/GD32F350G8U6TR_MLX90640_V1.0.hex) file and use the official burning tool to burn the firmware into the MCU.
 4. You need an Android phone, which needs a typc-c interface.
-5. Download the [hoozz_play_release_v1.0.apk](https://github.com/huxiangjs/hoozz_play_android/releases/download/v1.0/hoozz_play_release_v1.0.apk) file and install the apk to your phone.
+5. Download the [hoozz_play_release_v2.0.apk](https://github.com/huxiangjs/hoozz_play_android/releases/download/v2.0/hoozz_play_release_v2.0.apk) file and install the apk to your phone.
 
 Okay, you're ready to start playing
 
