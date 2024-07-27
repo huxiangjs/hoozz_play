@@ -7,3 +7,6 @@
 [submodule "hoozz_play_esp32c3_remote_switch"]
 	path = hoozz_play_esp32c3_remote_switch
 	url = https://github.com/huxiangjs/hoozz_play_esp32c3_remote_switch.git
+[submodule "hoozz_play_esp32c3_voice_led"]
+	path = hoozz_play_esp32c3_voice_led
+	url = https://github.com/huxiangjs/hoozz_play_esp32c3_voice_led.git
