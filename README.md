@@ -16,7 +16,7 @@ Hoozz Play is a personal open source project where all the fun things will be sh
 * Demo video: [Bilibili](https://www.bilibili.com/video/BV1TC4y1u73H/)
 ### :sparkles: VOICE LED
 * Steps: [Quick Try](Documents/voice_led_quick_try.md)
-* Demo video: [Bilibili](https://www.bilibili.com/video/BV1qZ421g7PG/)
+* Demo video: [Bilibili P1](https://www.bilibili.com/video/BV1qZ421g7PG/) | [Bilibili P2](https://www.bilibili.com/video/BV19E4m1R7KP/)
 
 ## :art: Get all source code
 ```shell
