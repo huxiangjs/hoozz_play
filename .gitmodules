@@ -10,3 +10,6 @@
 [submodule "hoozz_play_esp32c3_voice_led"]
 	path = hoozz_play_esp32c3_voice_led
 	url = https://github.com/huxiangjs/hoozz_play_esp32c3_voice_led.git
+[submodule "hoozz_play_esp32c3_button_led"]
+	path = hoozz_play_esp32c3_button_led
+	url = https://github.com/huxiangjs/hoozz_play_esp32c3_button_led.git
