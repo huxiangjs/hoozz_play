@@ -11,8 +11,8 @@ jobs:
     steps:
       - name: Checkout parent repo
         uses: actions/checkout@v4
-        with:
-          submodules: false  # We control it manually
+        # with:
+        #   submodules: false  # We control it manually
 
       - name: Update submodule
         run: |
