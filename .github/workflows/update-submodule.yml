@@ -1,0 +1,33 @@
+name: Update Submodule
+
+on:
+  workflow_dispatch:  # Can be triggered manually or via API
+  schedule:
+    - cron: '0 0 * * *'  # Check daily (optional)
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout parent repo
+        uses: actions/checkout@v4
+        with:
+          submodules: false  # We control it manually
+
+      - name: Update submodule
+        run: |
+          git config --global user.name "Automated"
+          git config --global user.email "actions@github.com"
+          git submodule update --remote
+
+      - name: Push changes
+        run: |
+          git add .
+          git diff-index --quiet HEAD || {
+            git commit -m "chore: update submodule"
+            git push
+          }
+        env:
+          # Need to enable write permissions for GITHUB_TOKEN in the parent repo
+          # (Settings > Actions > Workflow permissions)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
