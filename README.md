@@ -29,5 +29,9 @@ After the above operation is completed, all projects will be located in the curr
 
 Good luck and have fun :)
 
+## :star: Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=huxiangjs/hoozz_play&type=Date)](https://www.star-history.com/#huxiangjs/hoozz_play&Date)
+
 ## :memo: License
 * MIT License
