@@ -13,3 +13,9 @@
 [submodule "hoozz_play_esp32c3_button_led"]
 	path = hoozz_play_esp32c3_button_led
 	url = https://github.com/huxiangjs/hoozz_play_esp32c3_button_led.git
+[submodule "hoozz_play_esp8266_smart_ir"]
+	path = hoozz_play_esp8266_smart_ir
+	url = https://github.com/huxiangjs/hoozz_play_esp8266_smart_ir.git
+[submodule "hoozz_play_esp8266_sensor"]
+	path = hoozz_play_esp8266_sensor
+	url = https://github.com/huxiangjs/hoozz_play_esp8266_sensor.git
