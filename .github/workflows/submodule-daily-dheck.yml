@@ -1,4 +1,4 @@
-name: Update Submodule
+name: Submodule Daily Check
 
 on:
   workflow_dispatch:  # Can be triggered manually or via API
