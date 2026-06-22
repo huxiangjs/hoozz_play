@@ -1,6 +1,9 @@
 # :fire: Hoozz Play
 Hoozz Play is a personal open source project where all the fun things will be shared.
 
+* Last Commit：![COMMIT](https://img.shields.io/github/last-commit/huxiangjs/hoozz_play)
+* Stars：![STAR](https://img.shields.io/github/stars/huxiangjs/hoozz_play)
+
 ## :zap: Project list
 1. **MLX90640:** Thermal imaging capabilities with 32x24 resolution.
 2. **REMOTE SW:** A gadget that remotely controls the startup of your computer.
